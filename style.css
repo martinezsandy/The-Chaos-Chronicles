@@ -1,0 +1,59 @@
+body{
+    font-family: 'Michroma';
+}
+#black{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    object-fit: cover;
+}
+h2{
+    color: whitesmoke;
+    padding-left: 1em;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+h1{
+    color: whitesmoke;
+    padding-left: 0.5em;
+    font-size: 5em;
+    margin-bottom: 0px;
+}
+
+#name{
+    color: whitesmoke;
+    letter-spacing: 1px;
+    padding-left: 2.5em;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 2em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.bold{
+    font-size: 1.5em;
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+    font-family: 'Quintessential';
+}
+#desc{
+    color: whitesmoke;
+    letter-spacing: 1px;
+    padding-left: 4.2em;
+}
+#projects{
+    color: whitesmoke;
+    padding-left: 5em;
+    letter-spacing: 1px;
+}
+a{
+    color: whitesmoke;
+}
